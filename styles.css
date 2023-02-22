@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+
+.row{
+	display:flex;
+	justify-content:space-between;
+}
+.row2{
+	display:flex;
+	justify-content:space-between;
+}
+.row3{
+	display:flex;
+	justify-content:space-between;
+}
+.row4{
+	display:flex;
+	justify-content:space-between;
+}
